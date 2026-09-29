@@ -1,0 +1,14 @@
+{
+      "name": "cee-stremio-addon",
+        "version": "1.0.0",
+          "description": "Cee addon for Stremio and Nuvio",
+            "main": "index.js",
+              "scripts": {
+                  "start": "node index.js"
+                    },
+                      "dependencies": {
+                          "axios": "^1.6.8",
+                              "stremio-addon-sdk": "^1.6.10"
+                                }
+                                }
+
